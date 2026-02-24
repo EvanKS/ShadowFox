@@ -155,7 +155,7 @@ python main.py
 
 ---
 
-## 📊 Example Outputs
+##  Example Outputs
 
 | User Input            | Autocorrect | Next Word Prediction |
 |----------------------|------------|----------------------|
@@ -200,7 +200,7 @@ This project showcases practical application of Natural Language Processing conc
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Evan KS**  
 AIML Intern – ShadowFox  
